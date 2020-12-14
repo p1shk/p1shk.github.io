@@ -45,6 +45,7 @@ header {
   margin-bottom: 100px;
 }
 .contacts {
+  position: absolute;
   font-style: normal;
   display: none;
   right: 0;
@@ -150,6 +151,6 @@ iframe{
     text-align: right;
   }
   nav{
-    margin-bottom: 50px;
+    margin-bottom: 80px;
   }
 }
