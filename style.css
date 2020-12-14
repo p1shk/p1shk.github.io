@@ -1,0 +1,155 @@
+@font-face {
+  font-family: "Gotham Pro Light Italic";
+  src: url("GothamPro-LightItalic.eot");
+  src: url("./fonts/GothamPro-LightItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+.home-link {
+  text-decoration: none;
+  color: black;
+}
+.home {
+  margin-bottom: 80px;
+}
+.objects-wrapper {
+  margin-bottom: 80px;
+}
+.objects-wrapper a {
+  color: #000000;
+  text-decoration: none;
+}
+.objects-wrapper li {
+  margin-bottom: 5px;
+}
+.objects-wrapper a:hover {
+  text-decoration: underline;
+}
+.active {
+  font-weight: bold;
+}
+body {
+  margin: 0;
+  padding: 50px 70px;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+}
+ul,
+li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+header {
+  margin-bottom: 100px;
+}
+.contacts {
+  font-style: normal;
+  display: none;
+  right: 0;
+}
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.info {
+  position: relative;
+  cursor: pointer;
+}
+.contacts a {
+  color: blue;
+  font-family: serif;
+}
+.object {
+  display: block;
+  width: 48%;
+  margin-bottom: 50px;
+}
+
+.visible {
+  display: block;
+}
+.object-wrapper {
+  width: 80%;
+  display: flex;
+}
+.imgs-wrapper {
+  width: 100%;
+}
+.imgs-wrapper img {
+  margin-bottom: 20px;
+}
+.object-wrapper img {
+  width: 70%;
+}
+
+.information {
+  font-family: sans-serif;
+  font-style: normal;
+}
+.info-btn {
+  margin-bottom: 20px;
+}
+.contacts li {
+  margin-bottom: 5px;
+}
+.main-wrapper{
+  display: flex;
+  justify-content: space-between;
+}
+.video-wrapper{
+  width: 70%;
+}
+iframe{
+  width: 100%;
+  height: 650px;
+}
+@media (max-width: 500px) {
+  .main-wrapper{
+    flex-direction: column;
+  }
+  .video-wrapper {
+    width: 100%;
+}
+iframe{
+  width: 420px;
+  height: 300px;
+}
+  body {
+    padding: 10px;
+  }
+  .object {
+    width: 100%;
+  }
+  .information {
+    text-align: right;
+  }
+  .object-wrapper {
+    margin-bottom: 40px;
+    width: 80%;
+    flex-direction: column;
+    height: auto;
+  }
+
+  .info-btn {
+    margin-bottom: 10px;
+  }
+  .contacts {
+    font-size: 10px;
+  }
+
+  header {
+    margin-bottom: 70px;
+  }
+  .object-wrapper img {
+    width: 90%;
+  }
+  .imgs-wrapper div {
+    text-align: right;
+  }
+  nav{
+    margin-bottom: 50px;
+  }
+}
