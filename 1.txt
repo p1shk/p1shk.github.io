@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../style.css" />
+    <title>xivmcmxxiv</title>
+  </head>
+  <body>
+    <div class="wrapper">
+    <nav>
+      <!-- <div class="home">xivmcmxxiv</div> -->
+      <ul class="objects-wrapper">
+        <a href="/object-1"><li class="active">Ваза 1</li></a>
+        <a href=""><li>Ваза 2</li></a>
+        <a href=""><li>Ваза 3</li></a>
+      </ul>
+      <div class="info">
+        <div class="info-btn">contact</div>
+        <ul class="contacts">
+          <a href="tel:+79778030688"><li>+7(977)803-06-88</li></a>
+          <a href=""><li>facebook</li></a>
+          <a href="https://www.instagram.com/xivmcmxxiv/" target="_blank"
+            ><li>instagram</li></a
+          >
+        </ul>
+      </div>
+     
+    </nav>
+    <div class="btn-back"></div>
+    <div class="object-wrapper">
+      <div class="imgs-wrapper">
+        <div><img
+          src="../img/IMG_8607.JPEG"
+          alt=""
+        /></div>
+          <div><img src="../img/IMG_8620.JPEG" alt="" /></div>
+          <div><img src="../img/IMG_8624.JPEG" alt="" /></div>
+          <div><img src="../img/IMG_8796.JPEG" alt="" /></div>
+          <div><img src="../img/IMG_8797.JPEG" alt="" /></div>
+        </div>
+          <div class="information">
+            <p>clay milk bee wax and cannabis oil</p>
+            <p>35 cm</p>
+            <p>100 € a piece</p>
+          </div>
+    </div>
+    
+  </div>
+    <script src="../script.js"></script>
+  </body>
+</html>
