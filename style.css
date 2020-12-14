@@ -37,8 +37,8 @@ body {
 }
 ul,
 li {
-  padding: 10;
-  margin: 0;
+  padding: 100;
+  margin: 100;
   list-style: none;
 }
 header {
