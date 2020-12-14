@@ -13,14 +13,14 @@
   margin-bottom: 80px;
 }
 .objects-wrapper {
-  margin-bottom: 140px;
+  margin-bottom: 40px;
 }
 .objects-wrapper a {
   color: #000000;
   text-decoration: none;
 }
 .objects-wrapper li {
-  margin-bottom: 15px;
+  margin-bottom: 35px;
 }
 .objects-wrapper a:hover {
   text-decoration: underline;
