@@ -13,14 +13,14 @@
   margin-bottom: 80px;
 }
 .objects-wrapper {
-  margin-bottom: 80px;
+  margin-bottom: 140px;
 }
 .objects-wrapper a {
   color: #000000;
   text-decoration: none;
 }
 .objects-wrapper li {
-  margin-bottom: 5px;
+  margin-bottom: 15px;
 }
 .objects-wrapper a:hover {
   text-decoration: underline;
@@ -30,7 +30,7 @@
 }
 body {
   margin: 0;
-  padding: 50px 70px;
+  padding: 10px 10px;
   font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica neue Roman", Helvetica neue Roman, sans-serif;
   font-size: 16px;
