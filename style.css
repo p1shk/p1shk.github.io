@@ -10,10 +10,10 @@
   color: black;
 }
 .home {
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 .objects-wrapper {
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 .objects-wrapper a {
   color: #000000;
@@ -151,6 +151,6 @@ iframe{
     text-align: right;
   }
   nav{
-    margin-bottom: 250px;
+    margin-bottom: 280px;
   }
 }
