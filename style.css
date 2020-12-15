@@ -7,8 +7,6 @@
 }
 .home-link {
   text-decoration: none;
-  color: white;
-  opositin: 90%;
 }
 .home {
   margin-bottom: 10px;
@@ -26,6 +24,7 @@
 }
 .objects-wrapper a:hover {
   text-decoration: underline;
+  color: white;
 }
 .active {
   font-weight: bold;
