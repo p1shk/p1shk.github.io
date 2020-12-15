@@ -15,16 +15,16 @@
   margin-bottom: 10px;
 }
 .objects-wrapper a {
-  color: #000000;
+  color: white;
   text-decoration: none;
 }
 .objects-wrapper li {
   margin-bottom: 5px;
-  color: white;
+  color: blank;
 }
 .objects-wrapper a:hover {
   text-decoration: underline;
-  color: white;
+  color: black;
 }
 .active {
   font-weight: bold;
